@@ -1,2 +1,2 @@
-# bluebus-app
-BlueBus helps you find out the best-trusted buses that make your journey smooth!
+# greenbus
+GreenBus helps you find out the best-trusted buses that make your journey smooth!

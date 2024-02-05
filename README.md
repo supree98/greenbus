@@ -1,2 +1,2 @@
 # bluebus-app
-Blue Bus app helps to book the bus and reach the destination.
+BlueBus helps you find out the best-trusted buses that make your journey smooth!
